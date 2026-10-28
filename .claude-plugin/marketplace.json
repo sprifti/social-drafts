@@ -1,0 +1,14 @@
+{
+  "name": "social-drafts",
+  "description": "Social Drafts: X and LinkedIn drafts from your startup's new posts and features.",
+  "owner": {
+    "name": "Serena Prifti"
+  },
+  "plugins": [
+    {
+      "name": "social-drafts",
+      "source": "./",
+      "description": "Turn your startup's new blog posts and shipped features into X and LinkedIn drafts in Postiz or Publer, written in your own voice."
+    }
+  ]
+}

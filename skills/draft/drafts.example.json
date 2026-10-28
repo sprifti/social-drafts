@@ -1,0 +1,28 @@
+{
+  "drafts": [
+    {
+      "source": "https://example.com/blog/how-we-cut-churn",
+      "platform": "x",
+      "parts": [
+        "We cut monthly churn from 6% to 3.8% without a single new feature. The fix was a 3-email sequence for accounts that stopped logging in.\n\nWhat we sent and when: https://example.com/blog/how-we-cut-churn?utm_source=x&utm_medium=social&utm_campaign=how-we-cut-churn"
+      ]
+    },
+    {
+      "source": "https://example.com/blog/how-we-cut-churn",
+      "platform": "x",
+      "parts": [
+        "3 signals that a customer is about to cancel (from our own data):",
+        "1. No login for 10 days.\n2. They exported their data.\n3. The admin who signed up left the company.\n\nNumber 3 surprised me most.",
+        "How we catch each one automatically: https://example.com/blog/how-we-cut-churn?utm_source=x&utm_medium=social&utm_campaign=how-we-cut-churn"
+      ]
+    },
+    {
+      "source": "https://example.com/blog/how-we-cut-churn",
+      "platform": "linkedin",
+      "parts": [
+        "Our churn dropped by a third last quarter, and we didn't ship a single feature to do it.\n\nWe looked at the 40 customers who cancelled in the spring. Almost all of them had stopped logging in about two weeks before.\n\nSo we wrote three short emails for that moment. No discounts, just a useful nudge and a question.\n\nMonthly churn went from 6% to 3.8%.\n\nI wrote up the exact emails, the timing, and what didn't work.\n\nWhat's the earliest warning sign you've found?"
+      ],
+      "first_comment": "Full write-up: https://example.com/blog/how-we-cut-churn?utm_source=linkedin&utm_medium=social&utm_campaign=how-we-cut-churn"
+    }
+  ]
+}

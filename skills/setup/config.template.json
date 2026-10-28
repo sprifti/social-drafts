@@ -1,0 +1,12 @@
+{
+  "site": "https://example.com",
+  "sitemaps": ["https://example.com/sitemap.xml"],
+  "sections": ["/blog/", "/changelog/"],
+  "feeds": [],
+  "feature_repo": null,
+  "timezone": "Europe/London",
+  "provider": "postiz",
+  "platforms": ["x", "linkedin"],
+  "utm": true,
+  "allow_em_dashes": false
+}

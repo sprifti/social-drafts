@@ -1,0 +1,11 @@
+{
+  "name": "social-drafts",
+  "displayName": "Social Drafts",
+  "description": "Turn your startup's new blog posts and shipped features into X and LinkedIn drafts in Postiz or Publer, written in your own voice. Drafts only, never publishes.",
+  "author": {
+    "name": "Serena Prifti",
+    "url": "https://chartsy.app"
+  },
+  "license": "MIT",
+  "keywords": ["social media", "x", "twitter", "linkedin", "postiz", "publer", "build in public", "founders", "marketing"]
+}
